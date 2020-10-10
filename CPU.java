@@ -9,10 +9,5 @@ public class CPU {
 	 public void setSpeed(int speed){
 	  this.speed=speed;
 	 }
-	 String gettype() {
-		 return type;
-	 }
-	 public void settype(String type) {
-		 this.type=type;
-	 }
+	
 	}
