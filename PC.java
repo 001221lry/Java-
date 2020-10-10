@@ -10,10 +10,8 @@ public class PC {
 	  this.disk=disk; 
 	 }
 	 void show(){
-	  System.out.println("CPU速度"+cpu.getSpeed());
-	  System.out.println("CPU型号"+cpu.gettype());
-	  System.out.println("硬盘容量"+disk.getAmount());
-	  System.out.println("硬盘速度"+disk.getspeed2());
+	  System.out.println("CPU閫熷害"+cpu.getSpeed());
+	  System.out.println("纭洏瀹归噺"+disk.getAmount());
 	 }
 	 
 }
